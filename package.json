@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/adavis0010/monitoring-lab#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "rollbar": "^2.23.0"
   }
 }
